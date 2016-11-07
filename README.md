@@ -1,2 +1,4 @@
 # hello-word
-tuto
+tuto pour GitHub
+Josias le Toumaï
+Micka the sheep
